@@ -4,6 +4,8 @@
 Negative Or Mean Affinity Discrimination (NOMAD) Projection is a massively scalable method for nonlinear dimensionality reduction.
 It is the fastest and easiest way to compute t-SNE or UMAP style visualizations of multi-million point datasets.
 
+Please contact brandon@nomic.ai with inquiries!
+
 ## Installation
 You can install NOMAD Projection with pip:
 ```bash
